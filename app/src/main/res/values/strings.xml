@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormulaEx</string>
+    <string name="send_to">Send formula to</string>
+    <string name="btn_convert">Convert</string>
+    <string name="et_hint">Please enter a formula</string>
+    <string name="iv_desc">Formula render</string>
+    <string name="error">Formula not supported</string>
+</resources>
